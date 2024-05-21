@@ -1,0 +1,13 @@
+2)
+Bien, remettons nous encore un peu mieux dans python en utilisant des fonctions.
+Faites des fonctions de telle sorte que l'utilisateur fournira trois lignes d'entrée. Pour chaque, vous afficherez son premier caractère, en partant par la dernière ligne !
+Exemple:
+./ex2
+Input:
+> Hello world!
+> 12345
+> a
+Output:
+a
+1
+H
