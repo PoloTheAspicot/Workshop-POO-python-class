@@ -1,0 +1,22 @@
+6)
+Votre jeu est proche de la perfection, cependant on sait qu'un jeu de la vie se joue dans un espace théoriquement infini.
+Pour simuler cela, faites en sorte que la taille du tableau soit toujours supérieure de un à la taille de l'espace où sont les cellules vivantes.
+
+Ex :
+./ex6 3 10
+> OXOOXX
+> OXXOOO
+> XOOOXX
+Output:
+OOOOOOOO
+OOXXOOOO
+OXXXXOOO
+OOXOOOOO
+OOOOOOOO
+Waits 10 seconds
+OOOOOOOO
+OXOOXOOO
+OXOOXOOO
+OXXOOOOO
+OOOOOOOO
+...
