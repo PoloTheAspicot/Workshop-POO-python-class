@@ -1,0 +1,14 @@
+4)
+Reprenez votre fonction qui copie le tableau puis inverse les 'X' et les 'O'. La copie sera cette fois modifiée selon les règles suivantes :
+-Un 'X' entouré par strictement moins de deux 'X', ou par strictement plus de trois 'X' devient un 'O'.
+-Un 'O' entouré par exactement trois 'X' sur l'original devient un 'X'.
+
+Ex :
+./ex4
+> OXOOXX
+> OXXOOO
+> XOOOXX
+Output:
+OXXOOO
+XXXXOO
+OXOOOO
