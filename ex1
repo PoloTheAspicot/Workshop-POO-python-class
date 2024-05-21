@@ -1,4 +1,5 @@
-1) Pour ce premier exercice, vous allons revoir les bases de python.
+1)
+Pour ce premier exercice, vous allons revoir les bases de python.
 Faites un programme qui attend un input de l'utilisateur, celui-ci doit être une combinaison de O et de X.
 Votre but est de compter les X et les O, mais envoyer l'utilisateur balader s'il envoie autre chose qu'un de ces deux caractères.
 
