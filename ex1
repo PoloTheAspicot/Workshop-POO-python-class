@@ -1,0 +1,16 @@
+1) Pour ce premier exercice, vous allons revoir les bases de python.
+Faites un programme qui attend un input de l'utilisateur, celui-ci doit être une combinaison de O et de X.
+Votre but est de compter les X et les O, mais envoyer l'utilisateur balader s'il envoie autre chose qu'un de ces deux caractères.
+
+Ex :
+./ex1
+Input:
+> OXXOXOOOX
+Output:
+There are 4 'X' and 5 'O'
+
+./ex1
+Input:
+> ABCDXO
+Output:
+Only X and O are authorised!
