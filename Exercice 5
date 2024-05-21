@@ -1,0 +1,22 @@
+5)
+Bravo, vous avez fait le Jeu de la Vie sur un cycle. Maintenant, récupérez en paramètre le nombre de cycles que vous souhaitez exécuter avant que le programme s'arrête.
+De plus, vous devrez afficher l'état du jeu de la vie après chaque étape, mais seulement toutes les N secondes, N étant également un paramètre à prendre en compte.
+Il faut bien laisser le temps à l'utilisateur de comprendre de ce qu'il se passe sur son écran !
+
+Ex :
+./ex5 3 10
+> OXOOXX
+> OXXOOO
+> XOOOXX
+Output:
+OXXOOO
+XXXXOO
+OXOOOO
+Waits 10 seconds
+XOOXOO
+XOOXOO
+XXOOOO
+Waits 10 seconds
+OOOOOO
+XOXOOO
+XXOOOO
