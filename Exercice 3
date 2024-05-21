@@ -1,0 +1,25 @@
+3)
+Bien bien, maintenant que nous sommes dans le bain, venons-en au fait.
+Faites une class Game qui prend en paramètre un tableau rectangle de 0 et de X, récupéré ligne par ligne. Il contiendra une variable pour le tableau, et deux pour sa taille, longueur et largeur.
+Dedans, faites une fonction qui crée un copie du tableau, puis remplace dans cette copie tous les X en O et les O en X. Celle-ci remplace ensuite l'original.
+Attention, les strings en python sont immuable !
+Faites maintenant une seconde fonction dans cette class qui ne prend aucun paramètre et affiche le tableau quand on l'appelle.
+Initialisez votre class, puis appelez ces fonctions l'une après l'autre.
+
+Ex :
+./ex3
+Input:
+> OXOOXX
+> OXXO
+Output:
+Lines must be the same size to have a rectangle!
+
+./ex3
+Input:
+> OXOOXX
+> OXXOOO
+> XOOOXX
+Output:
+XOXXOO
+XOOXXX
+OXXXOO
